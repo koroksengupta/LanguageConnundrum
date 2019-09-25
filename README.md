@@ -7,6 +7,7 @@ I certainly do not believe we should have one language imposed on us. That's my 
 Took data from Wikipedia pages : 
 1) https://en.wikipedia.org/wiki/Indian_States_by_most_popular_languages
 2) https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_population
+3) https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_area
 
 The data does not have Ladakh since one of the sources did not have Ladakh in its entry. The data also considers Hindi to be the first language of the state for Bihar, Jharkhand, Haryana, UP, and UK. If these 5 state entities get altered, the rest of the data will get changed as well. 
 
