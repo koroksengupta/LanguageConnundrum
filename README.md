@@ -19,3 +19,5 @@ Here are the following 'naive' findings:
 3) In terms of land size, roughly 44% of India (by area) has Hindi as the first language.
 
 This is an extremely naive approach and would be really interesting to see if more data points could be added to the dataset to create a better representation of data for this Language Connundrum.
+
+![profiling](/images/Screen Shot 2019-09-25 at 10.35.01 AM)
