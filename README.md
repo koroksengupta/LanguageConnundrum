@@ -16,6 +16,7 @@ We have 28 states as per the dataset and 8 UT(excluding Ladakh). So a total of 3
 Here are the following 'naive' findings:
 1) As per the data, 10 state entities have Hindi as their first language. So 27.7% of the country has Hindi as their first language.  
 2) In terms of population, 46.7%  have Hindi as first language.
+3) 46.7% of the population uses Hindi as one of their official language
 3) In terms of land size, roughly 44% of India (by area) has Hindi as the first language.
 
 This is an extremely naive approach and would be really interesting to see if more data points could be added to the dataset to create a better representation of data for this Language Connundrum.
