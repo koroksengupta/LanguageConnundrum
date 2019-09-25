@@ -20,4 +20,4 @@ Here are the following 'naive' findings:
 
 This is an extremely naive approach and would be really interesting to see if more data points could be added to the dataset to create a better representation of data for this Language Connundrum.
 
-![GitHub profile](/images/Screen Shot 2019-09-25 at 10.35.01 AM.png)
+![GitHub profile](images/Screen%20Shot%202019-09-25%20at%2010.35.01%20AM.png)
